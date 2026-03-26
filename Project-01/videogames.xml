@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="videogames.xsl"?>
+<!-- <?xml-stylesheet type="text/xsl" href="Optional_videogames.xsl"?> -->
+<catalog>
+    <game>
+        <title>The Legend of Zelda: Breath of the Wild</title>
+        <platform>Nintendo Switch</platform>
+        <genre>Adventure</genre>
+        <year>2017</year>
+        <score>9.7</score>
+        <price>59.99</price>
+    </game>
+    <game>
+        <title>PUBG: Player Unknown Battle Ground</title>
+        <platform>PC</platform>
+        <genre>Battle Royale</genre>
+        <year>2017</year>
+        <score>9.9</score>
+        <price>35.99</price>
+    </game>
+    <game>
+        <title>Garena Free Fire</title>
+        <platform>Mobile</platform>
+        <genre>Battle Royale</genre>
+        <year>2019</year>
+        <score>5.0</score>
+        <price>20.99</price>
+    </game>
+    <game>
+        <title>FIFA 23</title>
+        <platform>PlayStation 5</platform>
+        <genre>Sports</genre>
+        <year>2022</year>
+        <score>8.4</score>
+        <price>69.99</price>
+    </game>
+    <game>
+        <title>Asphalt 9: Legends</title>
+        <platform>Nintendo Switch</platform>
+        <genre>Racing</genre>
+        <year>2018</year>
+        <score>7.7</score>
+        <price>30.99</price>
+    </game>
+    <game>
+        <title>Chess</title>
+        <platform>PC</platform>
+        <genre>Strategy</genre>
+        <year>2020</year>
+        <score>4.2</score>
+        <price>0.00</price>
+    </game>
+</catalog>
